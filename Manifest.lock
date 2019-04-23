@@ -1,0 +1,30 @@
+PODS:
+  - EasyPeasy (1.9.0)
+  - FAPanels (1.0.3)
+  - Realm (3.14.1):
+    - Realm/Headers (= 3.14.1)
+  - Realm/Headers (3.14.1)
+  - RealmSwift (3.14.1):
+    - Realm (= 3.14.1)
+
+DEPENDENCIES:
+  - EasyPeasy
+  - FAPanels
+  - RealmSwift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - EasyPeasy
+    - FAPanels
+    - Realm
+    - RealmSwift
+
+SPEC CHECKSUMS:
+  EasyPeasy: 19a84ef8f8bbcf925b9fecc29d1d78b7dab96718
+  FAPanels: 2b21e47ebb7445f87d9173b5a04f63e8ccd1d010
+  Realm: e12c9c2387d05c5bba3a9c394838f5870e85763b
+  RealmSwift: a82eab9b04c3e1616082c7e17aa300740847769c
+
+PODFILE CHECKSUM: 9e145ea32c0eb5fa5ff31e5cebff0262e6fa76c6
+
+COCOAPODS: 1.5.2
