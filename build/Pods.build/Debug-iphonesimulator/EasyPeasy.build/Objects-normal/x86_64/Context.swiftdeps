@@ -1,0 +1,138 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Context"
+provides-nominal:
+- "9EasyPeasy7ContextV"
+provides-member:
+- ["9EasyPeasy7ContextV", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- !private "&&"
+- !private "=="
+- "AssignmentPrecedence"
+- "Bool"
+- "Context"
+- !private "UIDevice"
+- "UITraitCollection"
+depends-member:
+- !private ["s7CVarArgP", "current"]
+- !private ["s7CVarArgP", "horizontalSizeClass"]
+- !private ["s7CVarArgP", "userInterfaceIdiom"]
+- !private ["s7CVarArgP", "verticalSizeClass"]
+- ["9EasyPeasy7ContextV", "Bool"]
+- !private ["9EasyPeasy7ContextV", "UIDevice"]
+- ["9EasyPeasy7ContextV", "UITraitCollection"]
+- ["9EasyPeasy7ContextV", "init"]
+- ["9EasyPeasy7ContextV", "isHorizontalCompact"]
+- ["9EasyPeasy7ContextV", "isHorizontalRegular"]
+- ["9EasyPeasy7ContextV", "isHorizontalVerticalCompact"]
+- ["9EasyPeasy7ContextV", "isHorizontalVerticalRegular"]
+- ["9EasyPeasy7ContextV", "isPad"]
+- ["9EasyPeasy7ContextV", "isPhone"]
+- ["9EasyPeasy7ContextV", "isVerticalCompact"]
+- ["9EasyPeasy7ContextV", "isVerticalRegular"]
+- !private ["s28CustomDebugStringConvertibleP", "current"]
+- !private ["s28CustomDebugStringConvertibleP", "horizontalSizeClass"]
+- !private ["s28CustomDebugStringConvertibleP", "userInterfaceIdiom"]
+- !private ["s28CustomDebugStringConvertibleP", "verticalSizeClass"]
+- !private ["s23CustomStringConvertibleP", "current"]
+- !private ["s23CustomStringConvertibleP", "horizontalSizeClass"]
+- !private ["s23CustomStringConvertibleP", "userInterfaceIdiom"]
+- !private ["s23CustomStringConvertibleP", "verticalSizeClass"]
+- !private ["SQ", "compact"]
+- !private ["SQ", "current"]
+- !private ["SQ", "horizontalSizeClass"]
+- !private ["SQ", "pad"]
+- !private ["SQ", "phone"]
+- !private ["SQ", "regular"]
+- !private ["SQ", "userInterfaceIdiom"]
+- !private ["SQ", "verticalSizeClass"]
+- !private ["SH", "compact"]
+- !private ["SH", "current"]
+- !private ["SH", "horizontalSizeClass"]
+- !private ["SH", "pad"]
+- !private ["SH", "phone"]
+- !private ["SH", "regular"]
+- !private ["SH", "userInterfaceIdiom"]
+- !private ["SH", "verticalSizeClass"]
+- !private ["So8NSCodingP", "horizontalSizeClass"]
+- !private ["So8NSCodingP", "userInterfaceIdiom"]
+- !private ["So8NSCodingP", "verticalSizeClass"]
+- !private ["So9NSCopyingP", "horizontalSizeClass"]
+- !private ["So9NSCopyingP", "userInterfaceIdiom"]
+- !private ["So9NSCopyingP", "verticalSizeClass"]
+- !private ["So8NSObjectC", "current"]
+- !private ["So8NSObjectC", "horizontalSizeClass"]
+- !private ["So8NSObjectC", "userInterfaceIdiom"]
+- !private ["So8NSObjectC", "verticalSizeClass"]
+- !private ["So8NSObjectP", "current"]
+- !private ["So8NSObjectP", "horizontalSizeClass"]
+- !private ["So8NSObjectP", "userInterfaceIdiom"]
+- !private ["So8NSObjectP", "verticalSizeClass"]
+- !private ["So14NSSecureCodingP", "horizontalSizeClass"]
+- !private ["So14NSSecureCodingP", "userInterfaceIdiom"]
+- !private ["So14NSSecureCodingP", "verticalSizeClass"]
+- !private ["SY", "compact"]
+- !private ["SY", "pad"]
+- !private ["SY", "phone"]
+- !private ["SY", "regular"]
+- !private ["So8UIDeviceC", "current"]
+- !private ["So8UIDeviceC", "userInterfaceIdiom"]
+- !private ["So17UITraitCollectionC", "horizontalSizeClass"]
+- !private ["So17UITraitCollectionC", "userInterfaceIdiom"]
+- !private ["So17UITraitCollectionC", "verticalSizeClass"]
+- !private ["So20UIUserInterfaceIdiomV", "pad"]
+- !private ["So20UIUserInterfaceIdiomV", "phone"]
+- !private ["So24UIUserInterfaceSizeClassV", "compact"]
+- !private ["So24UIUserInterfaceSizeClassV", "regular"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "current"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "horizontalSizeClass"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "userInterfaceIdiom"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "verticalSizeClass"]
+depends-nominal:
+- !private "s7CVarArgP"
+- "9EasyPeasy7ContextV"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s23CustomStringConvertibleP"
+- !private "SQ"
+- !private "SH"
+- !private "So8NSCodingP"
+- !private "So9NSCopyingP"
+- !private "So8NSObjectC"
+- !private "So8NSObjectP"
+- !private "So14NSSecureCodingP"
+- !private "SY"
+- !private "So8UIDeviceC"
+- !private "So17UITraitCollectionC"
+- !private "So20UIUserInterfaceIdiomV"
+- !private "So24UIUserInterfaceSizeClassV"
+- !private "10Foundation27_KeyValueCodingAndObservingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/heisenberg/Documents/ZhanHealth beta/Pods/Target Support Files/EasyPeasy/EasyPeasy-umbrella.h"
+- "/Users/heisenberg/Documents/ZhanHealth beta/build/Pods.build/Debug-iphonesimulator/EasyPeasy.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "7458b15bb1b8d8c7ae603c1a2d0d87ef"

@@ -1,0 +1,298 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Node"
+provides-nominal:
+- "9EasyPeasy4NodeC"
+provides-member:
+- ["9EasyPeasy4NodeC", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "=="
+- !private "==="
+- !private ">"
+- !private "??"
+- "ActivationGroup"
+- "AssignmentPrecedence"
+- "Attribute"
+- !private "BooleanLiteralType"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "NSLayoutConstraint"
+- "Node"
+- "ReferenceAttribute"
+- "Subnode"
+depends-member:
+- !private ["Sa", "append"]
+- !private ["Sa", "count"]
+- !private ["Sa", "easy_flatMap"]
+- !private ["Sa", "filter"]
+- !private ["Sa", "forEach"]
+- !private ["9EasyPeasy9AttributeC", "createAttribute"]
+- !private ["9EasyPeasy9AttributeC", "layoutConstraint"]
+- !private ["9EasyPeasy9AttributeC", "shouldInstall"]
+- !private ["SK", "append"]
+- !private ["SK", "count"]
+- !private ["SK", "easy_flatMap"]
+- !private ["SK", "filter"]
+- !private ["SK", "forEach"]
+- !private ["s7CVarArgP", "append"]
+- !private ["s7CVarArgP", "count"]
+- !private ["s7CVarArgP", "easy_flatMap"]
+- !private ["s7CVarArgP", "filter"]
+- !private ["s7CVarArgP", "forEach"]
+- !private ["Sl", "append"]
+- !private ["Sl", "count"]
+- !private ["Sl", "easy_flatMap"]
+- !private ["Sl", "filter"]
+- !private ["Sl", "forEach"]
+- !private ["10Foundation15ContiguousBytesP", "append"]
+- !private ["10Foundation15ContiguousBytesP", "count"]
+- !private ["10Foundation15ContiguousBytesP", "easy_flatMap"]
+- !private ["10Foundation15ContiguousBytesP", "filter"]
+- !private ["10Foundation15ContiguousBytesP", "forEach"]
+- !private ["s28CustomDebugStringConvertibleP", "append"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "easy_flatMap"]
+- !private ["s28CustomDebugStringConvertibleP", "filter"]
+- !private ["s28CustomDebugStringConvertibleP", "forEach"]
+- !private ["s17CustomReflectableP", "append"]
+- !private ["s17CustomReflectableP", "count"]
+- !private ["s17CustomReflectableP", "easy_flatMap"]
+- !private ["s17CustomReflectableP", "filter"]
+- !private ["s17CustomReflectableP", "forEach"]
+- !private ["s23CustomStringConvertibleP", "append"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- !private ["s23CustomStringConvertibleP", "easy_flatMap"]
+- !private ["s23CustomStringConvertibleP", "filter"]
+- !private ["s23CustomStringConvertibleP", "forEach"]
+- !private ["10Foundation12DataProtocolP", "append"]
+- !private ["10Foundation12DataProtocolP", "count"]
+- !private ["10Foundation12DataProtocolP", "easy_flatMap"]
+- !private ["10Foundation12DataProtocolP", "filter"]
+- !private ["10Foundation12DataProtocolP", "forEach"]
+- !private ["Se", "append"]
+- !private ["Se", "count"]
+- !private ["Se", "easy_flatMap"]
+- !private ["Se", "filter"]
+- !private ["Se", "forEach"]
+- !private ["SE", "append"]
+- !private ["SE", "count"]
+- !private ["SE", "easy_flatMap"]
+- !private ["SE", "filter"]
+- !private ["SE", "forEach"]
+- ["SQ", "=="]
+- !private ["SQ", ""]
+- ["SQ", "_rawHashValue"]
+- !private ["SQ", "append"]
+- ["SQ", "bottom"]
+- ["SQ", "bottomMargin"]
+- ["SQ", "center"]
+- ["SQ", "centerX"]
+- ["SQ", "centerXWithinMargins"]
+- ["SQ", "centerY"]
+- ["SQ", "centerYWithinMargins"]
+- !private ["SQ", "count"]
+- ["SQ", "dimension"]
+- !private ["SQ", "easy_flatMap"]
+- !private ["SQ", "filter"]
+- ["SQ", "firstBaseline"]
+- !private ["SQ", "forEach"]
+- ["SQ", "hash"]
+- ["SQ", "hashValue"]
+- ["SQ", "height"]
+- ["SQ", "lastBaseline"]
+- ["SQ", "leading"]
+- ["SQ", "leadingMargin"]
+- ["SQ", "left"]
+- ["SQ", "leftMargin"]
+- ["SQ", "right"]
+- ["SQ", "rightMargin"]
+- !private ["SQ", "subnode"]
+- ["SQ", "top"]
+- ["SQ", "topMargin"]
+- ["SQ", "trailing"]
+- ["SQ", "trailingMargin"]
+- ["SQ", "width"]
+- !private ["s25ExpressibleByArrayLiteralP", "append"]
+- !private ["s25ExpressibleByArrayLiteralP", "count"]
+- !private ["s25ExpressibleByArrayLiteralP", "easy_flatMap"]
+- !private ["s25ExpressibleByArrayLiteralP", "filter"]
+- !private ["s25ExpressibleByArrayLiteralP", "forEach"]
+- ["SH", "=="]
+- !private ["SH", ""]
+- ["SH", "_rawHashValue"]
+- !private ["SH", "append"]
+- ["SH", "bottom"]
+- ["SH", "bottomMargin"]
+- ["SH", "center"]
+- ["SH", "centerX"]
+- ["SH", "centerXWithinMargins"]
+- ["SH", "centerY"]
+- ["SH", "centerYWithinMargins"]
+- !private ["SH", "count"]
+- ["SH", "dimension"]
+- !private ["SH", "easy_flatMap"]
+- !private ["SH", "filter"]
+- ["SH", "firstBaseline"]
+- !private ["SH", "forEach"]
+- ["SH", "hash"]
+- ["SH", "hashValue"]
+- ["SH", "height"]
+- ["SH", "lastBaseline"]
+- ["SH", "leading"]
+- ["SH", "leadingMargin"]
+- ["SH", "left"]
+- ["SH", "leftMargin"]
+- ["SH", "right"]
+- ["SH", "rightMargin"]
+- !private ["SH", "subnode"]
+- ["SH", "top"]
+- ["SH", "topMargin"]
+- ["SH", "trailing"]
+- ["SH", "trailingMargin"]
+- ["SH", "width"]
+- !private ["s6HasherV", "combine"]
+- !private ["SM", "append"]
+- !private ["SM", "count"]
+- !private ["SM", "easy_flatMap"]
+- !private ["SM", "filter"]
+- !private ["SM", "forEach"]
+- !private ["10Foundation19MutableDataProtocolP", "append"]
+- !private ["10Foundation19MutableDataProtocolP", "count"]
+- !private ["10Foundation19MutableDataProtocolP", "easy_flatMap"]
+- !private ["10Foundation19MutableDataProtocolP", "filter"]
+- !private ["10Foundation19MutableDataProtocolP", "forEach"]
+- ["9EasyPeasy4NodeC", "ActivationGroup"]
+- ["9EasyPeasy4NodeC", "Attribute"]
+- ["9EasyPeasy4NodeC", "NSLayoutConstraint"]
+- ["9EasyPeasy4NodeC", "activeAttributes"]
+- ["9EasyPeasy4NodeC", "add"]
+- ["9EasyPeasy4NodeC", "center"]
+- ["9EasyPeasy4NodeC", "clear"]
+- ["9EasyPeasy4NodeC", "deactivate"]
+- ["9EasyPeasy4NodeC", "dimension"]
+- ["9EasyPeasy4NodeC", "inactiveAttributes"]
+- ["9EasyPeasy4NodeC", "init"]
+- ["9EasyPeasy4NodeC", "left"]
+- ["9EasyPeasy4NodeC", "reload"]
+- ["9EasyPeasy4NodeC", "right"]
+- !private ["Sk", "append"]
+- !private ["Sk", "count"]
+- !private ["Sk", "easy_flatMap"]
+- !private ["Sk", "filter"]
+- !private ["Sk", "forEach"]
+- !private ["Sm", "append"]
+- !private ["Sm", "count"]
+- !private ["Sm", "easy_flatMap"]
+- !private ["Sm", "filter"]
+- !private ["Sm", "forEach"]
+- ["9EasyPeasy18ReferenceAttributeO", "Subnode"]
+- ["9EasyPeasy18ReferenceAttributeO", "bottom"]
+- ["9EasyPeasy18ReferenceAttributeO", "bottomMargin"]
+- ["9EasyPeasy18ReferenceAttributeO", "centerX"]
+- ["9EasyPeasy18ReferenceAttributeO", "centerXWithinMargins"]
+- ["9EasyPeasy18ReferenceAttributeO", "centerY"]
+- ["9EasyPeasy18ReferenceAttributeO", "centerYWithinMargins"]
+- ["9EasyPeasy18ReferenceAttributeO", "firstBaseline"]
+- ["9EasyPeasy18ReferenceAttributeO", "height"]
+- ["9EasyPeasy18ReferenceAttributeO", "lastBaseline"]
+- ["9EasyPeasy18ReferenceAttributeO", "leading"]
+- ["9EasyPeasy18ReferenceAttributeO", "leadingMargin"]
+- ["9EasyPeasy18ReferenceAttributeO", "left"]
+- ["9EasyPeasy18ReferenceAttributeO", "leftMargin"]
+- ["9EasyPeasy18ReferenceAttributeO", "right"]
+- ["9EasyPeasy18ReferenceAttributeO", "rightMargin"]
+- !private ["9EasyPeasy18ReferenceAttributeO", "subnode"]
+- ["9EasyPeasy18ReferenceAttributeO", "top"]
+- ["9EasyPeasy18ReferenceAttributeO", "topMargin"]
+- ["9EasyPeasy18ReferenceAttributeO", "trailing"]
+- ["9EasyPeasy18ReferenceAttributeO", "trailingMargin"]
+- ["9EasyPeasy18ReferenceAttributeO", "width"]
+- !private ["ST", "append"]
+- !private ["ST", "count"]
+- !private ["ST", "easy_flatMap"]
+- !private ["ST", "filter"]
+- !private ["ST", "forEach"]
+- !private ["s14_ArrayProtocolP", "append"]
+- !private ["s14_ArrayProtocolP", "count"]
+- !private ["s14_ArrayProtocolP", "easy_flatMap"]
+- !private ["s14_ArrayProtocolP", "filter"]
+- !private ["s14_ArrayProtocolP", "forEach"]
+- !private ["s24_DestructorSafeContainerP", "append"]
+- !private ["s24_DestructorSafeContainerP", "count"]
+- !private ["s24_DestructorSafeContainerP", "easy_flatMap"]
+- !private ["s24_DestructorSafeContainerP", "filter"]
+- !private ["s24_DestructorSafeContainerP", "forEach"]
+- !private ["s19_HasContiguousBytesP", "append"]
+- !private ["s19_HasContiguousBytesP", "count"]
+- !private ["s19_HasContiguousBytesP", "easy_flatMap"]
+- !private ["s19_HasContiguousBytesP", "filter"]
+- !private ["s19_HasContiguousBytesP", "forEach"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "append"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "count"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "easy_flatMap"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "filter"]
+- !private ["s35_HasCustomAnyHashableRepresentationP", "forEach"]
+- !private ["s21_ObjectiveCBridgeableP", "append"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- !private ["s21_ObjectiveCBridgeableP", "easy_flatMap"]
+- !private ["s21_ObjectiveCBridgeableP", "filter"]
+- !private ["s21_ObjectiveCBridgeableP", "forEach"]
+depends-nominal:
+- !private "Sa"
+- !private "9EasyPeasy9AttributeC"
+- !private "SK"
+- !private "s7CVarArgP"
+- !private "Sl"
+- !private "10Foundation15ContiguousBytesP"
+- !private "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- !private "s23CustomStringConvertibleP"
+- !private "10Foundation12DataProtocolP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- "SH"
+- !private "s6HasherV"
+- !private "SM"
+- !private "10Foundation19MutableDataProtocolP"
+- "9EasyPeasy4NodeC"
+- !private "Sk"
+- !private "Sm"
+- "9EasyPeasy18ReferenceAttributeO"
+- !private "ST"
+- !private "s14_ArrayProtocolP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s19_HasContiguousBytesP"
+- !private "s35_HasCustomAnyHashableRepresentationP"
+- !private "s21_ObjectiveCBridgeableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/heisenberg/Documents/ZhanHealth beta/Pods/Target Support Files/EasyPeasy/EasyPeasy-umbrella.h"
+- "/Users/heisenberg/Documents/ZhanHealth beta/build/Pods.build/Debug-iphonesimulator/EasyPeasy.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator12.2.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "3d543dea24031e753e6b3d2d9e624386"
